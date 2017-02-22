@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS Workshop.Plugins", "FPS Workshop.Plugins.csproj", "{40B5B298-62AA-A96C-3138-52781329B71B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS Workshop", "FPS Workshop.csproj", "{F9B6F944-AE50-2583-FD85-DF8B72DF3162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS Workshop.Editor.Plugins", "FPS Workshop.Editor.Plugins.csproj", "{E89B1BB7-0BA1-9B98-130A-8FBEBB95F7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B5B298-62AA-A96C-3138-52781329B71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B5B298-62AA-A96C-3138-52781329B71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B5B298-62AA-A96C-3138-52781329B71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B5B298-62AA-A96C-3138-52781329B71B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B6F944-AE50-2583-FD85-DF8B72DF3162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B6F944-AE50-2583-FD85-DF8B72DF3162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B6F944-AE50-2583-FD85-DF8B72DF3162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B6F944-AE50-2583-FD85-DF8B72DF3162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89B1BB7-0BA1-9B98-130A-8FBEBB95F7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89B1BB7-0BA1-9B98-130A-8FBEBB95F7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89B1BB7-0BA1-9B98-130A-8FBEBB95F7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89B1BB7-0BA1-9B98-130A-8FBEBB95F7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
